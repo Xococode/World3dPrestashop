@@ -1,0 +1,32 @@
+{
+  "ripples": [
+    {
+      "lat": 46.603354,
+      "lng": 1.888334,
+      "maxR": 25,
+      "propagationSpeed": 8,
+      "repeatPeriod": 2000
+    },
+    {
+      "lat": 40.463667,
+      "lng": -3.74922,
+      "maxR": 15,
+      "propagationSpeed": 6,
+      "repeatPeriod": 1800
+    },
+    {
+      "lat": 41.87194,
+      "lng": 12.56738,
+      "maxR": 10,
+      "propagationSpeed": 5,
+      "repeatPeriod": 1600
+    },
+    {
+      "lat": 52.132633,
+      "lng": 19.145136,
+      "maxR": 12,
+      "propagationSpeed": 5,
+      "repeatPeriod": 1700
+    }
+  ]
+}
