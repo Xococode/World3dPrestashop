@@ -3,7 +3,7 @@
 ![Globo Interactivo](CapturaGlobo.JPG)
 
 ## Acceso Rápido a la Aplicación
-[Visitar Aplicación](https://xococode.github.io/World3dPrestahop.github.io/)
+[Visitar Aplicación](https://xococode.github.io/World3dPrestashop/)
 
 ## Descripción
 Este proyecto presenta un globo interactivo en 3D que muestra la ubicación de los expertos de Prestashop, desarrollado con **Three.js** y **ThreeGlobe**. La aplicación renderiza un globo terráqueo que utiliza polígonos hexagonales para representar países, e integra animaciones de puntos, efectos ripple, trayectorias de vuelo y modelos 3D. Además, incorpora interactividad a través de controles de cámara y detección de marcadores con raycasting.
